@@ -1,0 +1,19 @@
+.background-image {
+  /* background-color: gray; */
+  background-image: url("images/Cool-Nature-Wallpapers-Wallpapers-Browse.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.employee-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+}
+.employee-detail h2 b {
+  color: mediumblue;
+}
+.employee-Image {
+  width: 300px;
+  height: 200px;
+  border-radius: px;
+}
